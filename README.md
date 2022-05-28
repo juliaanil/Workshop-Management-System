@@ -9,16 +9,4 @@ Users of the system are:
 •	STAFF
 •	ADMIN
 
-The main functions are:
-•	Manager collects work details from the customer.
-•	Manager divides the work into different tasks according to the operations to be done to complete the work.
-•	Manager assigns each task to a staff.
-•	Manager updates the status of tasks, works and payment
-•	Manager can add/delete/modify various details like personal details, staff details, customer details, operations, works and tasks.
-•	Staffs could view the pending and finished tasks assigned to them
-•	Staffs could update their personal details.
-•	Customers will be informed about the completion of work and it’s amount.
-•	Admin can add/delete/modify manager details
-•	Admin can view various details like personal details , manager details, customer details, operations, works and tasks.
-•	Admin may generate reports of works between two dates with total amount received.
 
